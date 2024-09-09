@@ -1,8 +1,8 @@
 # Today's Topic
 
-### Git basic Commands
-### Virual machines
-### Linux OS and terminal based application
+- Git basic Commands
+- Virual machines
+- Linux OS and terminal based application
 
 
 ## Virtual Machines 
