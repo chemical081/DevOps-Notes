@@ -1,3 +1,11 @@
-# DevOps-Notes
+# Web Server
 
-Made This Note to use this as a cheatsheet.
+
+## Nginx 
+- a web server
+- a reverse proxy
+- application load balancer
+
+
+## using nginx:
+
